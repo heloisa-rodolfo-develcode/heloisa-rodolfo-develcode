@@ -30,8 +30,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![IA](https://img.shields.io/badge/-Inteligência%20Artificial-333333?style=flat&logo=openai)
 
 ### **DevOps**
